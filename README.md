@@ -2,6 +2,8 @@
 
 一个用于收集和管理网页修改报告的 MCP (Module Control Protocol) 服务器(网页开发专用的todo list)。
 
+[📄 英文版说明](readme_cn.md)
+
 ## 功能特点
 
 - **WebSocket 报告收集**：通过 WebSocket 服务(8971端口)接收前端发送的网页元素修改报告

@@ -2,6 +2,8 @@
 
 A MCP (Module Control Protocol) server for collecting and managing web page modification reports (a todo list specifically for web development).
 
+[📄 中文版说明](README.md)
+
 ## Features
 
 - **WebSocket Report Collection**: Receive web element modification reports from frontend via WebSocket service (port 8971)
